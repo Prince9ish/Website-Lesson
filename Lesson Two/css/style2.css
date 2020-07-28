@@ -1,0 +1,29 @@
+
+.store
+{
+	width:800px;
+}
+
+.box
+{
+	background-color: #FD0505;
+	float: left;
+	width: 200px;
+	height:250px;
+	border: 2px solid #00FFF1;
+}
+
+.box.red
+{
+	background-color: #FD4C0F;
+}
+
+.box.green
+{
+	background-color: #5AFD0F;
+}
+
+.clear
+{
+	clear: both;
+}

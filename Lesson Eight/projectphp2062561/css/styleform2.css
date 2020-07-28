@@ -1,0 +1,22 @@
+div {
+	width: 960px;
+	margin: 0px auto;
+}
+
+table {
+
+}
+
+table tr {
+	
+}
+
+table tr td {
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+input {
+	padding: 6px;
+	box-sizing: border-box;
+}

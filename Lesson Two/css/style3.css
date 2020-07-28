@@ -1,0 +1,36 @@
+
+.store
+{
+	width:601px;
+	background-color: #DF4A83;
+}
+
+.box
+{
+	background-color: #FD0505;
+	float: left;
+	width: 200px;
+	height:250px;
+}
+
+.box.blue
+{
+	background-color: #4A93DF;
+}
+
+.box.red
+{
+	background-color: #FD4C0F;
+	height:20px;
+}
+
+.box.green
+{
+	background-color: #5AFD0F;
+	height:230px;
+}
+
+.clear
+{
+	clear: both;
+}

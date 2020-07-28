@@ -1,0 +1,14 @@
+
+.red
+{
+	background-color: #F00;
+	height: 30px;
+	border: 1px solid #000;
+}
+
+.green
+{
+	background-color: #0F0;
+	height: 30px;
+	border: 1px solid #000;
+}

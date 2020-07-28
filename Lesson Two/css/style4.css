@@ -1,0 +1,61 @@
+
+.main
+{
+	width:960px;
+}
+
+.store
+{
+	background-color: #818C4C;
+	width:960px;
+	height: 200px;
+}
+
+.box
+{
+	background-color: #FD0505;
+	float: left;
+	width: 315px;
+	height:250px;
+}
+
+.box.blue
+{
+	background-color: #BAF6F3;
+	height: 40px;
+	margin: 70px 2px;
+	padding: 10px 0px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.line
+{
+	background-color: #FD4C0F;
+	height: 30px;
+}
+
+.thickline
+{
+	background-color: #F9FD58;
+	height: 60px;
+}
+
+.Greenside
+{
+	background-color: #86E168;
+	float: left;
+	width: 360px;
+	height:250px;
+}
+
+.Oside
+{
+	background-color: #FD0505;
+	float: right;
+	width: 600px;
+	height:250px;
+}

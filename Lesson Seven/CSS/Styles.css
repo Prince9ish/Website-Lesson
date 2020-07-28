@@ -1,0 +1,65 @@
+body{
+	width: 960px;
+	margin: 0px auto;
+	font-family: 'Raleway', sans-serif;
+	background-color: #E0E6E4;
+}
+.heading {
+	font-size: 70px;
+	font-family: 'Dancing Script', cursive;
+}
+.subheading {
+	font-size: 50px;
+	font-family: 'Dancing Script', cursive;
+}
+.container {
+	width: 960px;
+	margin: 0px auto;
+}
+
+.box{
+	background-color: #5A8E7C;
+	width: 290px;
+	border-color: ##5A8E7C;
+	border-style: groove;
+	border-width: 1px;
+	padding: 10px 8px 10px 8px;
+	margin: 10px 6px 10px 6px;
+	float: left
+}
+
+.box .image{
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	height: 400px;
+	align-content: center;
+}
+
+.box .title{
+	font-size: 40px;
+	color: #FDFEFE;
+	text-align: center;
+}
+
+.box .aurthor{
+	font-size: 25px;
+	text-align: center;
+	color: #E7E8EA;
+	padding: 2px 10px;
+}
+
+.box .detail{
+	font-size: 18px;
+	text-align: center;
+	color: #C9C9CA;
+	padding: 2px 10px;
+	height: 100px;
+}
+
+
+.box .price{
+	font-size: 30px;
+	text-align: center;
+	color: #FDFEFE;
+	padding: 2px 10px
+}

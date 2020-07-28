@@ -1,0 +1,27 @@
+.inner-wrapper
+{
+	width: 960px;
+	margin: 0px auto;
+}
+
+.list
+{
+
+}
+
+.list .item
+{
+	float: left;
+	width: 300px;
+	margin: 10px;
+}
+
+.list .item img
+{
+	width: 100%;
+}
+
+.clear
+{
+	clear: both;
+}
